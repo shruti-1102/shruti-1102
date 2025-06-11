@@ -9,7 +9,16 @@
 - 🎨 Built pixel-perfect front-end clones (Amazon, anyone?) with HTML, CSS & JS  
 - 🎯 Grinding daily on LeetCode & HackerRank for that DSA glow-up  
 - 🛠️ Mastering Git, VS Code & all the dev tools to level up my workflow  
-- 🌱 Forever learning, growing, and chasing code perfection  
+- 🌱 Forever learning, growing, and chasing code perfection
+
+## 📊 GitHub Stats
+
+![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=shruti-1102&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-1102&layout=compact&theme=github_dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shruti-1102&theme=tokyonight&border_radius=4.5)](https://git.io/streak-stats)
+
 
 ### 🎯 Current Goals
 - 🚀 Score a killer internship to build real-world products  
