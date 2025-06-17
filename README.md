@@ -52,7 +52,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti-1102&layout=compact&theme=github_dark" alt="Top Languages" />
   <br />
-  <img src="https://streak-stats.demolab.com?user=shruti-1102&theme=tokyonight&border_radius=4.5" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti-1102&theme=tokyonight&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
 ---
