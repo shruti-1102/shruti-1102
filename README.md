@@ -17,8 +17,10 @@
 - ✅ Python
 - ✅ SQL
 - ✅ NumPy
-- 🔄 Pandas
-- 🔜 EDA, Matplotlib, Seaborn, Power BI, Projects, and Dashboards!
+- ✅ Pandas
+- ✅ EDA
+- 🔄 Matplotlib 
+- 🔜 Seaborn, Power BI, Projects, and Dashboards!
 
 ---
 
