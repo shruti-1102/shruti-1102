@@ -1,6 +1,6 @@
 # Hey there, I’m Shruti! 👋
 
-🔥 Aspiring Data Analyst | Python & SQL Enthusiast | Java Baddie Turned Data Diva
+🔥 Aspiring Data Analyst | Python & SQL Enthusiast
 
 ---
 
