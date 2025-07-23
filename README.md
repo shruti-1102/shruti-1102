@@ -19,8 +19,9 @@
 - ✅ NumPy
 - ✅ Pandas
 - ✅ EDA
-- 🔄 Matplotlib 
-- 🔜 Seaborn, Power BI, Projects, and Dashboards!
+- ✅ Matplotlib
+- ✅ Seaborn
+- 🔜 Power BI, Projects, and Dashboards!
 
 ---
 
