@@ -21,7 +21,8 @@
 - ✅ EDA
 - ✅ Matplotlib
 - ✅ Seaborn
-- 🔜 Power BI, Projects, and Dashboards!
+- ✅ Tableau
+- 🔜 Projects, and Dashboards!
 
 ---
 
