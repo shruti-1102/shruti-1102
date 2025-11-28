@@ -22,7 +22,8 @@
 - ✅ Matplotlib
 - ✅ Seaborn
 - ✅ Tableau
-- 🔜 Projects, and Dashboards!
+- ✅ Projects
+- ✅ Dashboards!
 
 ---
 
