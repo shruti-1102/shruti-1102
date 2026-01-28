@@ -59,17 +59,10 @@
 
 ### 🎯 Goals I'm Manifesting
 - ✅ Build cool data projects from scratch
-- 🧠 Learn Power BI, Tableau, and Dashboards like a boss
+- 🧠 Learn Power BI, Tableau, and Dashboards
 - 💡 Understand user behavior with data (like a brainy Netflix recommender)
 - 🤝 Collab with folks who vibe with data & design
 - 🔥 Land a data-focused internship in the next 3 months
-
----
-
-### 🎸 Fun Facts
-- 🎶 Guitar strummer & melody hunter  
-- ☕ Powered by chai and chaotic energy  
-- 💬 Always down to debug code or overthink a plot twist  
 
 ---
 
@@ -93,4 +86,4 @@
 
 ---
 
-Thanks for stopping by! Let’s clean, analyze, and visualize data like legends 🔍📈💫
+Thanks for stopping by! Let’s clean, analyze, and visualize data 🔍📈💫
